@@ -138,6 +138,12 @@ align-items: flex-start;
 gap: 96px;
 flex-shrink: 0;
 }
+.phone_img1{
+    display: none;
+}
+.phone_img2{
+    display: none;
+}
 .section1_a{
     color: #FFF;
 font-family: Poppins;
