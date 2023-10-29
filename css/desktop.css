@@ -1,0 +1,64 @@
+@media (max-width:1100px){
+.header_div{
+    width: 90px;
+    margin-left: 25px;
+    margin-right: 240px;
+}
+.header_h3{
+    font-size: 14px;
+
+}
+.form_1{
+    margin-right: 200px;
+}
+.search1{
+    padding-right: 250px;
+}
+.header_div1{
+    width: 120px;
+    margin-right: 65px;
+}
+.header_button{
+    width: 75px;
+}
+.phone_button{
+    display: none;
+ }
+    .phone_img{
+    display: none;
+}
+/* section1  */
+.section1{
+padding: 10px 200px;
+}
+.section1_img{
+    display: none;
+}
+.phone_img1{
+    display: none;
+}
+.phone_img2{
+    display: none;
+}
+.section1_ul{
+    width: 700px;
+    gap: 80px;
+}
+/* section2  */
+.the_diiv{
+    width: 720px;
+    padding: 40px 180px;
+}
+.section2_select1{
+    width: 400px;
+    padding-left: 180px;
+}
+/* footer  */
+footer{
+    padding: 40px 60px;
+    gap: 270px;
+}
+.footer_thediv{
+    gap: 20px;
+}
+}

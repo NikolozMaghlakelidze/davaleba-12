@@ -1,0 +1,96 @@
+@media (max-width:750px){
+    .header_div{
+        width: 70px;
+        margin: 25px 180px 25px 60px;
+    }
+.form_1{
+    height: 40px;
+    margin: 25px 160px 25px 0;
+}
+.search1{
+    height: 40px;
+}
+.header_div1{
+    width: 90px;
+    margin: 27px 60px 27px 0;
+}
+.header_button{
+    width: 60px;
+    height: 30px;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 10px;
+}.phone_button{
+    display: none;
+    }
+    .phone_img{
+    display: none;
+    }
+/* section1  */
+.section1{
+    padding: 10px 160px;
+}
+.phone_img1{
+    display: none;
+}
+.phone_img2{
+    display: none;
+}
+.section1_ul{
+    gap: 60px;
+}
+.section1_a{
+font-size: 14px;
+line-height: 17px;
+}
+/* section2  */
+.section2{
+    padding-top: 40px;
+}
+.section2_h{
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 60px;
+}
+.NAME{
+line-height: 14px;
+}
+.EMAIL{
+    line-height: 14px;
+}
+.section2_label1{
+    font-weight: 300;
+    line-height: 14px;
+}
+.section2_label2{
+    font-weight: 300;
+    line-height: 14px;
+}
+/* footer  */
+footer{
+    padding: 30px 55px;
+    gap: 160px;
+}
+.footer_div1{
+width: 100px;
+font-weight: 500;
+line-height: 14px;
+}
+.footer_thediv{
+    width: 100px;
+}
+.footer_div2{
+    height: 200px;
+}
+.footer_h4{
+    font-weight: 500;
+    line-height: 14px;
+}
+.footer-article{
+    width: 150px;
+}
+.footer_text1{
+    font-weight: 300;
+    line-height: 13px;
+}
+}
